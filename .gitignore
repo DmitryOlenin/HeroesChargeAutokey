@@ -301,3 +301,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+ILMerge/7z.exe
+*.bat
+ILMerge/FileTouch.exe
+ILMerge/ILMerge.exe
